@@ -1,0 +1,1 @@
+A Hash table is defined as a data strocture used to insort, look up, and remove key-value pairs quiekly. It operotes on the hashing concpet, where each key is translated by a hash function into a distinct index in an array. The index functons as a storage location for the matching value. In simple words, it maps the keys with the value.
